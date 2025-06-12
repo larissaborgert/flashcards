@@ -58,4 +58,6 @@ footer p {
 
 .cartao_conteudo_resposta p {
     color:var(--card-back-color);
+    font-weight: 700;
 }
+
