@@ -1,4 +1,4 @@
-criaCartao(
+function criaCartao(categoria, pergunta, resposta
     'CIÊNCIAS'
     'Como é feito a fotossintese?'
     'Pelo SOL'
