@@ -1,17 +1,15 @@
-function criaCartao(categoria, pergunta, resposta
+function criaCartao(categoria, pergunta, resposta){
     'CIÊNCIAS'
     'Como é feito a fotossintese?'
     'Pelo SOL'
-)
-
-criaCartao(
+}
+function criaCartao{
     'PROGRAMAÇÃO'
     'O que é JavaScript?'
     'É uma linguagem de programação!'
-)
-
-criaCartao(
+}
+function criaCartao{
     'GEOGRAFIA'
     'Qual a Capital do Brasil?'
     'Brasília.'
-)
+}
