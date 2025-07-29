@@ -3,11 +3,13 @@ function criaCartao(categoria, pergunta, resposta){
     'Como é feito a fotossintese?'
     'Pelo SOL'
 }
+
 function criaCartao{
     'PROGRAMAÇÃO'
     'O que é JavaScript?'
     'É uma linguagem de programação!'
 }
+
 function criaCartao{
     'GEOGRAFIA'
     'Qual a Capital do Brasil?'
